@@ -20,6 +20,7 @@ public class SalespersonSalary {
 				break;
 			}
 			System.out.println("Salary is: $"+frm.format(salary));
+			System.out.println();
 		}while(true); 
 		System.out.print("bye");
 	}
