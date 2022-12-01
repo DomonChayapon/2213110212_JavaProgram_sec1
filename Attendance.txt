@@ -1,4 +1,3 @@
-StudentID:2213110212
 Fullname: Chayapon Udompaiboonlarp
-AKA: Domon
-ClassDetail: Control Statement & Confirm Dialog
+AKA: Mon
+ClassDetail:String Methods and Defined Method
