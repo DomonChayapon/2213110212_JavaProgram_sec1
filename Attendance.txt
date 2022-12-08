@@ -1,3 +1,4 @@
+StudentID: 2213110212
 Fullname: Chayapon Udompaiboonlarp
 AKA: Mon
-ClassDetail:String Methods and Defined Method
+ClassDetail:Repeat Lab Sheet 1-4
