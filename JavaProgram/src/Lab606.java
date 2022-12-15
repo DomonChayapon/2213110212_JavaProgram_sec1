@@ -10,7 +10,7 @@ public class Lab606 {
 		JOptionPane.showMessageDialog(null, 
 				"Current data,num["+ IndexOfArray +"] is "+currentData(nums,IndexOfArray)
 				+"\n"+(IndexOfArray-1!=-1?"Previous data,num["+ (IndexOfArray-1) +"] is "+ prevData(nums,IndexOfArray):"No privious data")
-				+"\n"+(IndexOfArray+1!=-1?"Next data,num["+ (IndexOfArray+1) +"] is "+ nextData(nums,IndexOfArray):"No next data"));
+				+"\n"+(IndexOfArray+1!=7?"Next data,num["+ (IndexOfArray+1) +"] is "+ nextData(nums,IndexOfArray):"No next data"));
 	}// end of main()
 	
 	public static boolean checkIndex(int[] nums,int index) {
