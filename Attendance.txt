@@ -1,4 +1,4 @@
 StudentID: 2213110212
 Fullname: Chayapon Udompaiboonlarp
 AKA: Mon
-ClassDetail:Repeat Lab Sheet 1-4
+ClassDetail:Repeat Array in Java
