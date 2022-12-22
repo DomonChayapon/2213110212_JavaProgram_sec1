@@ -19,7 +19,6 @@ public class TestStudent_2 {
 				std[i].setScore(scan.nextInt());	
 			}//end while()
 		}//end for
-		System.out.println("----------------------------------------------------------");
 		for(Student _std:std) {
 				System.out.println(">> "+_std.getName()+" get grade "+_std.findGrade(_std.getScore()));
 		}
