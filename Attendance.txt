@@ -1,4 +1,4 @@
 StudentID: 2213110212
 Fullname: Chayapon Udompaiboonlarp
 AKA: Mon
-ClassDetail:Encapsulation
+ClassDetail:Composition and Inheritance
