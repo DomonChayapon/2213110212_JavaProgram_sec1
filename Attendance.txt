@@ -2,4 +2,4 @@ Data : 2/9/2023
 StudentID: 2213110212
 Fullname: Chayapon Udompaiboonlarp
 AKA: Mon
-ClassDetail:Exception + File (W / R)
+ClassDetail:Abstract and Interface
