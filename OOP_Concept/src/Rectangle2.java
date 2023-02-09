@@ -20,8 +20,7 @@ public class Rectangle2 implements Shape2 {
 		return this.length;
 	}
 	
-	public Rectangle(double width,double length,String color) {
-		super(color);
+	public Rectangle2(double width,double length) {
 		this.width = width;
 		this.length = length;
 	}

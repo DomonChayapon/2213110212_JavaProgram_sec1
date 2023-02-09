@@ -10,8 +10,6 @@ public class ShapeDemo3 {
 			String[] input = str.split(" ");
 			radius[i] = Double.parseDouble(input[0]);
 			height[i] = Double.parseDouble(input[1]);
-			 /*radius[i] = Double.parseDouble(JOptionPane.showInputDialog("Input radius "+(i+1)+":"));
-			 height[i] = Double.parseDouble(JOptionPane.showInputDialog("Input height "+(i+1)+":"));*/
 			 Cylinder cy = new Cylinder(radius[i],height[i]);
 			 Volume[i] = cy.getVolume();
 		}
