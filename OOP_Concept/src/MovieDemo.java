@@ -27,8 +27,8 @@ public class MovieDemo {
 			theater = scan.nextInt();
 		}
 		System.out.println();
-		Theater theater = new Theater(Mid,Mname,Dname,Demail,Dgender,theater);
-		System.out.print(theater);
+		/*Theater theater = new Theater(Mid,Mname,Dname,Demail,Dgender,theater);
+		System.out.print(theater);*/
 	}
 
 }
