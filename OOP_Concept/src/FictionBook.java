@@ -5,5 +5,8 @@ public class FictionBook {
 	private String title;
 	private int checkEmail;
 	
-	
+	public FictionBook(String title,int publicYear) {
+		this.title = title;
+		
+	}
 }
